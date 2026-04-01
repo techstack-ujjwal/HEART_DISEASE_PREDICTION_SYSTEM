@@ -12,7 +12,7 @@ numeric_cols = ['Age','RestingBP','Cholesterol','MaxHR','Oldpeak']
 
 # UI
 st.title("❤️ Heart Disease Prediction System")
-st.caption("Developed by Ujjwal Suman")
+st.caption("HV PROJECT")
 
 st.write("Please enter patient details:")
 
